@@ -6,7 +6,7 @@
         {"Path" : "Specs/example.spec.js"}, 
     ],
     "References" : [
-        {"Path" : "../../../Scripts/lib/require/require.js" }, 
-        {"Path" : "../../../Scripts/app/app.js" }
+        {"Path" : "../Scripts/lib/require/require.js" }, 
+        {"Path" : "../Scripts/app/app.js" }
     ]
 }
