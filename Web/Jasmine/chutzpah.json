@@ -1,0 +1,12 @@
+﻿{
+    "Framework": "jasmine",
+    "TestHarnessReferenceMode": "AMD",
+    "TestHarnessLocationMode": "SettingsFileAdjacent",
+    "Tests": [
+        {"Path" : "Specs/example.spec.js"}, 
+    ],
+    "References" : [
+        {"Path" : "../../../Scripts/lib/require/require.js" }, 
+        {"Path" : "../../../Scripts/app/app.js" }
+    ]
+}
