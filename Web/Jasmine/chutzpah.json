@@ -1,5 +1,6 @@
 ﻿{
     "Framework": "jasmine",
+    "RootReferencePathMode":"SettingsFileDirectory",
     "TestHarnessReferenceMode": "AMD",
     "TestHarnessLocationMode": "SettingsFileAdjacent",
     "Tests": [
