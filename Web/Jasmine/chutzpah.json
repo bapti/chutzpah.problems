@@ -4,10 +4,25 @@
     "TestHarnessReferenceMode": "AMD",
     "TestHarnessLocationMode": "SettingsFileAdjacent",
     "Tests": [
-        {"Path" : "Specs/example.spec.js"}, 
+        {"Path" : "SpecRunner.html"}
     ],
     "References" : [
         {"Path" : "../Scripts/lib/require/require.js" }, 
         {"Path" : "../Scripts/app/app.js" }
     ]
 }
+
+// {
+//     "Framework": "jasmine",
+//     "RootReferencePathMode":"SettingsFileDirectory",
+//     "TestHarnessReferenceMode": "AMD",
+//     "TestHarnessLocationMode": "Custom",
+//     "TestHarnessDirectory": "../Scripts",
+//     "Tests": [
+//         {"Path" : "specs", "Include": "*spec.js"}
+//     ],
+//     "References" : [
+//         {"Path" : "../Scripts/lib/require/require.js" }, 
+//         {"Path" : "../Scripts/app/app.js" }
+//     ]
+// }
